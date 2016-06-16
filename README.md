@@ -1,4 +1,4 @@
-You can choose script without any options, Defaults are 100km from given base location (53.3381985, -6.2592576) with file name with customers data 'customers.txt'
+You can use script without any options, Defaults are 100km from given base location (53.3381985, -6.2592576) with file name with customers data 'customers.txt'
 
 Optionally:
  '-l', 'Current location like (53.3381985, -6.2592576)'
